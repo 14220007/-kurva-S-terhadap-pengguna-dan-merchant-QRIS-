@@ -1,6 +1,6 @@
 # Analisis Kurva S Pengguna dan Merchant QRIS Indonesia 2021–2026
 
-<!-- DOI: diisi setelah rilis pertama diarsipkan Zenodo -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23336480.svg)](https://doi.org/10.5281/zenodo.23336480)
 
 Kode dan dataset untuk mengukur pola pertumbuhan pengguna dan *merchant* QRIS (*Quick Response Code Indonesian Standard*) dengan model difusi kurva S: logistik, Gompertz, Bass, dan bi-logistik.
 
@@ -65,4 +65,4 @@ Estimasi batas jenuh (K) adalah hasil model dan sensitif terhadap model serta pe
 
 ## Cara mengutip
 
-Rumintarsih, A. (2026). *Analisis kurva S pengguna dan merchant QRIS Indonesia 2021–2026* [Kode dan dataset]. Zenodo. https://doi.org/(diisi setelah DOI terbit)
+Rumintarsih, A. (2026). *Analisis kurva S pengguna dan merchant QRIS Indonesia 2021–2026* [Kode dan dataset]. Zenodo. https://doi.org/10.5281/zenodo.23336480
