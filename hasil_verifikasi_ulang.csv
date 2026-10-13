@@ -1,0 +1,29 @@
+Yang diperiksa,Hasil,Dilaporkan,Toleransi,Cocok
+K logistik pengguna,65.189,65.2,0.06,True
+SK K logistik pengguna (bawah),63.489,63.5,0.6,True
+SK K logistik pengguna (atas),67.454,67.5,0.6,True
+K Gompertz pengguna,69.097,69.1,0.06,True
+K Bass pengguna,65.996,66.0,0.06,True
+MAPE holdout logistik pengguna (%),4.617,4.62,0.01,True
+MAPE holdout Gompertz pengguna (%),3.686,3.69,0.01,True
+AICc logistik tunggal,35.898,35.9,0.06,True
+AICc bi-logistik,-33.132,-33.1,0.06,True
+K1 gelombang pertama,60.717,60.72,0.01,True
+K total bi-logistik,75.396,75.4,0.01,True
+Proyeksi pengguna Des 2026,73.601,73.6,0.06,True
+K logistik merchant,65.818,65.8,0.06,True
+K Gompertz merchant,82.673,82.7,0.06,True
+Uji resmi: K1 bi-logistik,59.788,59.8,0.06,True
+Uji resmi: K total bi-logistik,70.423,70.4,0.06,True
+Uji resmi: AICc bi-logistik,-18.095,-18.1,0.06,True
+Uji resmi: K logistik merchant,81.577,81.6,0.06,True
+Uji F logistik vs bi-logistik,98.847,98.85,0.01,True
+Shapiro-Wilk W bi-logistik,0.973,0.973,0.001,True
+Durbin-Watson logistik pengguna,0.45,0.45,0.006,True
+Durbin-Watson bi-logistik,0.936,0.94,0.006,True
+Blok: SK K1 (bawah),59.545,59.5,0.6,True
+Blok: SK K1 (atas),61.66,61.7,0.6,True
+Blok: SK K logistik merchant (bawah),58.318,58.3,0.6,True
+Blok: SK K logistik merchant (atas),79.481,79.5,0.6,True
+Pengguna Agustus 2026,69.32,69.32,0.001,True
+Merchant Agustus 2026,47.11,47.11,0.001,True
